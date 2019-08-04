@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUDApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_enter_title">Judul Berita</string>
+    <string name="hint_enter_content">Isi Berita</string>
+    <string name="lbl_isi_berita">Isi Berita</string>
+    <string name="lbl_judul_berita">Judul Berita</string>
+    <string name="lbl_tambah_berita">Tambah Berita</string>
+    <string name="lbl_edit_berita">Edit Berita</string>
+    <string name="msg_no_data">Tidak Ada Data</string>
+</resources>
